@@ -16,7 +16,7 @@
 12. Last step is to push the commit >> git push -u origin master << 
 
 
-** If you want to add futher changes and push it the repository you will need following 3 commands in the same order **
+**If you want to add futher changes and push it the repository you will need following 3 commands in the same order**
 
     git add -A
 
